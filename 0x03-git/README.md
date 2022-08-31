@@ -1,1 +1,1 @@
-readme for dir
+readme for dirj
